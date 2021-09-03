@@ -1,45 +1,14 @@
 {
-  "_args": [
-    [
-      "react-native-react-native-package-manager@1.0.0",
-      "/Users/feraunger/Sites/Vesey"
-    ]
-  ],
-  "_from": "react-native-react-native-package-manager@1.0.0",
-  "_id": "react-native-react-native-package-manager@1.0.0",
-  "_inBundle": false,
-  "_integrity": "sha512-TQr2if8MG3apoMdp462XIUOUxO0CkvvM0H+tEPIEGjWIYnnTEUSr8CzhQhMBosmPkmz5KVklFIsTZz6sJVpP0w==",
-  "_location": "/react-native-react-native-package-manager",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "react-native-react-native-package-manager@1.0.0",
-    "name": "react-native-react-native-package-manager",
-    "escapedName": "react-native-react-native-package-manager",
-    "rawSpec": "1.0.0",
-    "saveSpec": null,
-    "fetchSpec": "1.0.0"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-native-react-native-package-manager/-/react-native-react-native-package-manager-1.0.0.tgz",
-  "_spec": "1.0.0",
-  "_where": "/Users/feraunger/Sites/Vesey",
-  "author": "",
-  "description": "## Getting started",
-  "keywords": [
-    "react-native"
-  ],
-  "license": "ISC",
+  "name": "usage-stats-custom-flash",
+  "version": "0.0.1",
+  "description": "Usage Stats",
   "main": "index.js",
-  "name": "react-native-react-native-package-manager",
-  "peerDependencies": {
-    "react-native": "^0.63.4"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "keywords": [
+    "usage stats"
+  ],
+  "author": "Alan Neri",
+  "license": "MIT"
 }
