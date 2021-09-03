@@ -1,7 +1,7 @@
 {
-  "name": "usage-stats-custom-flash",
-  "version": "0.0.1",
-  "description": "Usage Stats",
+  "name": "react-native-package-manager-flash",
+  "version": "0.0.2",
+  "description": "Usage Stats & Package Manager",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
